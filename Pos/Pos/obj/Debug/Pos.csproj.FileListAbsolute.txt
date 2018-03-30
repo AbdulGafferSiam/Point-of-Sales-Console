@@ -1,0 +1,6 @@
+c:\users\web app develop .net\documents\visual studio 2013\Projects\Pos\Pos\bin\Debug\Pos.exe.config
+c:\users\web app develop .net\documents\visual studio 2013\Projects\Pos\Pos\bin\Debug\Pos.exe
+c:\users\web app develop .net\documents\visual studio 2013\Projects\Pos\Pos\bin\Debug\Pos.pdb
+c:\users\web app develop .net\documents\visual studio 2013\Projects\Pos\Pos\obj\Debug\Pos.csprojResolveAssemblyReference.cache
+c:\users\web app develop .net\documents\visual studio 2013\Projects\Pos\Pos\obj\Debug\Pos.exe
+c:\users\web app develop .net\documents\visual studio 2013\Projects\Pos\Pos\obj\Debug\Pos.pdb
